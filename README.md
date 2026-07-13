@@ -49,5 +49,3 @@ https://restful-booker.herokuapp.com/apidoc/index.html
 Aya
 
 Entry-Level Software Tester
-
-Chemistry Graduate transitioning into Software Testing
